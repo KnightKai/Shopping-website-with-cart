@@ -33,12 +33,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silentsword123/shopping-cart.git"
+    "url": "git+https://github.com/KnightKai/Shopping-website-with-cart"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/silentsword123/shopping-cart/issues"
+    "url": "https://github.com/KnightKai/Shopping-website-with-cart/issues"
   },
-  "homepage": "https://github.com/silentsword123/shopping-cart#readme"
+  "homepage": "https://github.com/KnightKai/Shopping-website-with-cart#readme"
 }
